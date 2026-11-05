@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">المساعد الذكي</string>
+    <string name="accessibility_service_description">يسمح للمساعد الذكي بتنفيذ النقرات والتنقل بين التطبيقات بناءً على أوامرك الصوتية.</string>
+</resources>
